@@ -68,7 +68,9 @@ The Project demo:
 
 
 
-https://github.com/user-attachments/assets/15d0e636-4892-444a-baff-a81ce9841b09
+
+https://github.com/user-attachments/assets/c7690575-35dc-4c8b-956d-5b22ecc9bf51
+
 
 
 
