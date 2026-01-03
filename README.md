@@ -1,0 +1,2 @@
+# Graduation-Project-in-Collaboration-with-Si-ware-on-a-Calibration-System-for-MEMS-Gas-Sensor
+This repository documents the design and development of a Calibration System for MEMS Gas Meters, created as part of the Bachelor’s Degree in Mechatronics and Robotics Engineering at Egypt-Japan University of Science and Technology (E-JUST). The project was completed in collaboration with NeoSpectra Si-Ware.
